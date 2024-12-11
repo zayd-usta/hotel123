@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "İstanbul Sarayı Otel",
+      "city": "İstanbul",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg", "/4.jpg"],
+      "features": ["WI-FI", "Restoran", "Havuz", "Resepsiyon"],
+      "price": 600,
+      "discount": 10,
+      "evaluation": 4.5,
+      "reviews": 324,
+      "MaxAdults": 4,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 1,
+          "space": 20,
+          "features": ["İnternet", "TV", "Klima", "Banyo"],
+          "price": 600,
+          "adults": 2,
+          "discount": 10,
+          "images": [
+            "https://images.odamax.com/img/1024x768/odamax/image/upload/5c3bb399f7260f462a961882012440b0.jpg",
+            "https://images.odamax.com/img/1024x768/odamax/image/upload/25d5ae1efdf9f5aef34d6e92bd944811.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 2,
+          "space": 30,
+          "features": [
+            "İnternet",
+            "Mutfak Malzemeleri",
+            "Klima",
+            "Oda Hizmetleri"
+          ],
+          "price": 850,
+          "adults": 3,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/golden-flower-hotel_175a82ea.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/golden-flower-hotel_258cc045.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/golden-flower-hotel_597accba.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/golden-flower-hotel_a24dc4b6.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ankara Grand Otel",
+      "city": "Ankara",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg", "/4.jpg", "/5.jpg"],
+      "features": ["Otopark", "WI-FI", "Resepsiyon"],
+      "price": 500,
+      "discount": 10,
+      "evaluation": 4.2,
+      "reviews": 210,
+      "MaxAdults": 3,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 1,
+          "space": 15,
+          "features": ["Saç Kurutma Makinesi", "Isıtma", "TV"],
+          "price": 500,
+          "adults": 2,
+          "discount": 10,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/greenpalmiyeotel442d3086.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/greenpalmiyeotelcd13b842.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/greenpalmiyeotelbef8a899.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/greenpalmiyeotel3cfdc636.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 2,
+          "space": 25,
+          "features": ["Klima", "Mutfak Malzemeleri", "Banyo Ürünleri"],
+          "price": 700,
+          "adults": 3,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/green-palmiye-otel_277cf55c.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/green-palmiye-otel_277cf55c.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/green-palmiye-otel_25ee43d5.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/green-palmiye-otel_0dc93335.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "İzmir Deniz Otel",
+      "city": "İzmir",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg"],
+      "features": ["WI-FI", "Restoran", "Havuz", "Otopark"],
+      "price": 800,
+      "discount": 0,
+      "evaluation": 3.5,
+      "reviews": 512,
+      "MaxAdults": 2,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 2,
+          "space": 20,
+          "features": ["Banyo", "Minibar", "İnternet", "Güvenli Kasa"],
+          "price": 800,
+          "adults": 2,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilar51157096.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilar7e1f6636.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilarab86f73f.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilar082dcba9.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilarb766c376.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 2,
+          "space": 30,
+          "features": ["İnternet", "Makyaj Aynası", "Banyo Ürünleri", "TV"],
+          "price": 1000,
+          "adults": 2,
+          "discount": 20,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilar4dd3b177.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilara494b76f.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/safirnostaljisuitistanbulavcilar2744978e.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/nostalji-suit-istanbul-avcilar-cbd9e006.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/nostaljisuitistanbulavcilardbc787ac.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/ozgerey-suit_7a7bd646.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/ozgerey-suit_7812eb44.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Antalya Tatil Köyü",
+      "city": "Antalya",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg"],
+      "features": ["Havuz", "Otopark", "WI-FI", "Resepsiyon"],
+      "price": 1200,
+      "discount": 15,
+      "evaluation": 4.8,
+      "reviews": 789,
+      "MaxAdults": 5,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 1,
+          "space": 20,
+          "features": ["Klima", "TV", "Banyo"],
+          "price": 1200,
+          "adults": 2,
+          "discount": 15,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/waveshotel_e948971a.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkiye/istanbul/avcilar/waveshotel_d791074f.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotele836baf2.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotela0cfa5b9.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotel354eb166.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 3,
+          "space": 40,
+          "features": ["Minibar", "Banyo", "Mutfak Malzemeleri"],
+          "price": 2000,
+          "adults": 4,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotel0d18b6fe.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotel9e310199.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotel778b0d5b.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/waveshotel152f0adc.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bursa Termal Otel",
+      "city": "Bursa",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg", "/4.jpg"],
+      "features": ["Termal Havuz", "Otopark", "WI-FI"],
+      "price": 800,
+      "discount": 10,
+      "evaluation": 4.4,
+      "reviews": 190,
+      "MaxAdults": 3,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 1,
+          "space": 22,
+          "features": ["Termal Havuz Erişimi", "Klima"],
+          "price": 800,
+          "adults": 2,
+          "discount": 10,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/thewalenshotel8ad6e19d.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/thewalenshotelf584e84c.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/thewalenshotel56a26001.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 2,
+          "space": 30,
+          "features": ["Bahçe Manzarası", "Balkon"],
+          "price": 1200,
+          "adults": 3,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/thewalenshotel6961fa9b.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/thewalenshotel3ffb3f20.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kapadokya Mağara Otel",
+      "city": "Nevşehir",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg", "/4.jpg"],
+      "features": ["Mağara Odalar", "Balkon", "Şömine", "WI-FI"],
+      "price": 700,
+      "discount": 15,
+      "evaluation": 4.6,
+      "reviews": 450,
+      "MaxAdults": 4,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 1,
+          "space": 25,
+          "features": ["Şömine", "Deneyim Oda"],
+          "price": 700,
+          "adults": 2,
+          "discount": 15,
+          "images": [
+            "https://cdng.jollytur.com/files/cms/media/hotel/0848b521-ea06-4e2f-93ce-425d5a6b6a20.jpg",
+            "https://cdng.jollytur.com/files/cms/media/hotel/146eec70-b368-429e-b6b7-5677135cc499.JPG"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 2,
+          "space": 35,
+          "features": ["Özel Balkon", "Şömine"],
+          "price": 1100,
+          "adults": 4,
+          "discount": 15,
+          "images": [
+            "https://images.odamax.com/img/1024x768/odamax/image/upload/nzotpwbaxuwvnidp9yq0.jpg",
+            "https://images.odamax.com/img/1024x768/odamax/image/upload/phizqav5uq7o7az9ztr2.jpg",
+            "https://images.odamax.com/img/1024x768/odamax/image/upload/dfeyppo0e6psfsh0owzg.jpg",
+            "https://images.odamax.com/img/1024x768/odamax/image/upload/y1cwhtiaxfkfmlmx6bu9.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Trabzon Doğa Otel",
+      "city": "Trabzon",
+      "images": ["/1.jpg", "/2.jpg", "/3.jpg"],
+      "features": ["Doğa Manzarası", "Resepsiyon", "WI-FI"],
+      "price": 750,
+      "discount": 20,
+      "evaluation": 4.5,
+      "reviews": 300,
+      "MaxAdults": 2,
+      "rooms": [
+        {
+          "id": 1,
+          "Bed": 1,
+          "space": 18,
+          "features": ["İnternet", "Banyo", "Isıtma"],
+          "price": 750,
+          "adults": 2,
+          "discount": 20,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel082a8a15.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel3de7003d.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel9d0dba2a.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel68a2ab54.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel5781349b.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel5df23d8d.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "Bed": 2,
+          "space": 25,
+          "features": ["Balkon", "Güvenli Kasa"],
+          "price": 950,
+          "adults": 2,
+          "images": [
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotel8d00943c.jpg",
+            "https://img.otelz.com/s3/size(1200,500,max,mc)/turkey/istanbul/avcilar/grandquarshotele4e2f83e.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
